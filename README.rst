@@ -122,3 +122,5 @@ this project, please `get in touch via the issues
 .. _Issues: https://www.github.com/stingraysoftware/stingray/issues
 .. _Issue: https://www.github.com/stingraysoftware/stingray/issues
 .. _pull request: https://github.com/StingraySoftware/stingray/pulls
+
+[![ascl:1608.001](https://img.shields.io/badge/ascl-1608.001-blue.svg?colorB=262255)](http://ascl.net/1608.001) 
